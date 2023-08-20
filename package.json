@@ -1,0 +1,20 @@
+{
+  "name": "testcafe",
+  "version": "1.0.0",
+  "description": "TestCafe script for login and user authentication process of the SDLMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests"
+  },
+  "keywords": [
+    "TestCafe",
+    "Testing",
+    "Automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.0.2",
+    "testcafe": "^3.2.0"
+  }
+}
