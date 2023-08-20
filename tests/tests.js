@@ -53,6 +53,5 @@ test('dashboard redirecting test', async (test) => {
              .expect(Selector('H5').innerText).eql('Welcome to DeepThought')
        
      })
-
-
-
+     
+;
